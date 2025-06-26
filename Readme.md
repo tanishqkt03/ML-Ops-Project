@@ -25,6 +25,7 @@ to observe your stacks, stack components and pipeline DAGs in a dashboard interf
 
 ```bash
 pip install zenml["server"]
+zenml init
 zenml up
 ```
 
